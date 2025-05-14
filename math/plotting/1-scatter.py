@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# filepath: /home/mitali/ALU-Respository/alu-machine_learning/math/plotting/1-scatter.py
 import numpy as np
 import matplotlib.pyplot as plt
 
