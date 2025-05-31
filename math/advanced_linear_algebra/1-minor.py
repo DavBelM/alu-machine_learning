@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def minor(matrix):
     """
     Calculates the minor matrix of a matrix

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def adjugate(matrix):
     """
     Calculates the adjugate matrix of a matrix

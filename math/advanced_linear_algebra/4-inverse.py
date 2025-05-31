@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def inverse(matrix):
     """
     Calculates the inverse of a matrix
