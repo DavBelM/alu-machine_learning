@@ -11,7 +11,8 @@ def definiteness(matrix):
     Calculates the definiteness of a matrix
 
     Args:
-        matrix: A numpy.ndarray of shape (n, n) whose definiteness should be calculated
+        matrix: A numpy.ndarray of shape (n, n) whose definiteness should be
+                calculated
 
     Returns:
         String indicating the definiteness of the matrix:
