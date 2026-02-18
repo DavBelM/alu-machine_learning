@@ -33,3 +33,8 @@ Write a function that initializes variables for a Gaussian Mixture Model with pr
 Write a function that calculates the probability density function of a Gaussian distribution.
 
 **File:** `5-pdf.py`
+
+### 6. Expectation
+Write a function that calculates the expectation step in the EM algorithm for a GMM.
+
+**File:** `6-expectation.py`
