@@ -13,3 +13,8 @@ Write a function that initializes cluster centroids for K-means clustering using
 Write a function that performs K-means clustering on a dataset with automatic convergence detection and empty cluster reinitialization.
 
 **File:** `1-kmeans.py`
+
+### 2. Variance
+Write a function that calculates the total intra-cluster variance within a data set.
+
+**File:** `2-variance.py`
