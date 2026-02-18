@@ -48,3 +48,23 @@ Write a function that calculates the maximization step in the EM algorithm for a
 Write a function that performs the expectation maximization algorithm for a GMM with convergence detection.
 
 **File:** `8-EM.py`
+
+### 9. BIC
+Write a function that finds the best number of clusters for a GMM using the Bayesian Information Criterion.
+
+**File:** `9-BIC.py`
+
+### 10. Hello, sklearn!
+Write a function that performs K-means on a dataset using sklearn.
+
+**File:** `10-kmeans.py`
+
+### 11. GMM
+Write a function that calculates a GMM from a dataset using sklearn.
+
+**File:** `11-gmm.py`
+
+### 12. Agglomerative
+Write a function that performs agglomerative clustering on a dataset with Ward linkage.
+
+**File:** `12-agglomerative.py`
