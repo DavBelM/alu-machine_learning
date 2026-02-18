@@ -28,3 +28,8 @@ Write a function that tests the optimum number of clusters by variance to find t
 Write a function that initializes variables for a Gaussian Mixture Model with priors, means, and covariance matrices.
 
 **File:** `4-initialize.py`
+
+### 5. PDF
+Write a function that calculates the probability density function of a Gaussian distribution.
+
+**File:** `5-pdf.py`
