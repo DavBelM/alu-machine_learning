@@ -18,3 +18,8 @@ Write a function that performs K-means clustering on a dataset with automatic co
 Write a function that calculates the total intra-cluster variance within a data set.
 
 **File:** `2-variance.py`
+
+### 3. Optimize k
+Write a function that tests the optimum number of clusters by variance to find the best k value.
+
+**File:** `3-optimum.py`
