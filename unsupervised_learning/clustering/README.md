@@ -38,3 +38,8 @@ Write a function that calculates the probability density function of a Gaussian 
 Write a function that calculates the expectation step in the EM algorithm for a GMM.
 
 **File:** `6-expectation.py`
+
+### 7. Maximization
+Write a function that calculates the maximization step in the EM algorithm for a GMM.
+
+**File:** `7-maximization.py`
