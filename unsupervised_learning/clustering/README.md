@@ -23,3 +23,8 @@ Write a function that calculates the total intra-cluster variance within a data 
 Write a function that tests the optimum number of clusters by variance to find the best k value.
 
 **File:** `3-optimum.py`
+
+### 4. Initialize GMM
+Write a function that initializes variables for a Gaussian Mixture Model with priors, means, and covariance matrices.
+
+**File:** `4-initialize.py`
