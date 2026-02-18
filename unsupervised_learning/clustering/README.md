@@ -43,3 +43,8 @@ Write a function that calculates the expectation step in the EM algorithm for a 
 Write a function that calculates the maximization step in the EM algorithm for a GMM.
 
 **File:** `7-maximization.py`
+
+### 8. EM
+Write a function that performs the expectation maximization algorithm for a GMM with convergence detection.
+
+**File:** `8-EM.py`
